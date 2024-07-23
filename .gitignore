@@ -1,0 +1,11 @@
+dwm/**
+!dwm/config.c
+
+dmenu/**
+!dmenu/config.c
+
+st/**
+!st/config.c
+
+scroll/**
+!scroll/config.c
