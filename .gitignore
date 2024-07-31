@@ -1,11 +1,11 @@
 dwm/**
-!dwm/config.c
+!dwm/config.h
 
 dmenu/**
-!dmenu/config.c
+!dmenu/config.h
 
 st/**
-!st/config.c
+!st/config.h
 
 scroll/**
-!scroll/config.c
+!scroll/config.h
