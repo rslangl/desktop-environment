@@ -30,4 +30,11 @@ Compile and install using a makeshift superbuild (sudo required because it insta
 sudo make
 ```
 
+Update alternatives:
+```shell
+update-alternatives --config x-terminal-emulator
+```
+
+DWM is launched via `xinitrc`, as specified in my [.dotfiles](https://github.com/rslangl/dotfiles)
+
 Profit
