@@ -9,3 +9,7 @@ st/**
 
 scroll/**
 !scroll/config.h
+
+rofi/**
+
+i3lock-color/**

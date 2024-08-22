@@ -1,0 +1,16 @@
+bison
+flex
+libglib2.0-dev
+libxcb1-dev
+libxcb-xkb-dev
+libxkbcommon-dev
+libxkbcommon-x11-dev
+libxcb-ewmh-dev
+libxcb-icccm4-dev
+libxcb-cursor-dev
+libxcb-randr0-dev
+libxcb-xinerama0-dev
+libxcb-util-dev
+libstartup-notification0-dev
+libpango1.0-dev
+check

@@ -1,0 +1,3 @@
+libx11-dev
+libbxft-dev
+libxinerama-dev

@@ -1,4 +1,4 @@
-SUBDIRS := dmenu dwm scroll st
+SUBDIRS := dmenu scroll st	#dwm
 
 .PHONY: all $(SUBDIRS) clean install
 
